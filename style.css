@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background: #3498db;
+    color: #fff;
+    text-align: center;
+    border: 10px solid red;
+    margin: auto;
+    width: 50%;
+    margin-top: 40px;
+}
+.try h1{
+    font-size: 45px;
+    margin: 20px 0;
+    font-family: sans-serif;
+    font-weight: 700;
+}
+.try p{
+    font-size: 25px;
+    line-height: 35px;
+    margin-bottom: 20px;
+}
+.try a{
+    display: inline-block;
+    background: #9b59b6;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
